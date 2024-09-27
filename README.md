@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sharad2005
-- 👀 I’m interested in programming, animation and cinematography.
-- 🌱 I’m currently learning react js.
+- 👋 Hi, I’m @Sharad
+- 👀 I’m interested in programming, Embedded Systems and VLSI
+- 🌱 I’m currently a Undergrad student persuing my BE in ECE from KLE TECH INDIA.
 - 🏫 I’m a student.
 
 <!---
