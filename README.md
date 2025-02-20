@@ -18,21 +18,19 @@
 2. **IoT-Based Smart Parking System** – Developed a **smart parking system** using **ESP32 and Blynk**, integrating IR sensors to detect available spots and notify users via mobile app. *(Embedded Systems & IoT)*  
 
 ## 🛠️ Tech Stack & Skills  
-- **Programming:** C, C++, Python, JavaScript  
+- **Programming:** C, C++, Python.
 - **Embedded Systems:** ESP32, Arduino, Raspberry Pi  
-- **PCB Design & Hardware:** KiCad, Altium, ULN2003 Driver, Stepper Motors  
+- **PCB Design & Hardware:** KiCad, Altium, Fusion360
 - **IoT & Cloud:** Blynk, MQTT, Firebase  
-- **3D Printing & Firmware:** Klipper, Voron StealthBurner, BIGTREETECH SKR MINI E3 V3.0  
 - **Web Development:** React, GitHub Pages  
 
 ## 📫 Contact  
-- 💻 [GitHub](https://github.com/Sharad)  
-- 🔗 [LinkedIn](#) *(Add your LinkedIn profile here)*  
-- 📧 sharad@example.com *(Replace with your email if you want to share it)*  
+- 💻 [GitHub](https://github.com/Sharad2005)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharad-siddanagoudar-9a6185283/) *(Add your LinkedIn profile here)*  
+- 📧 sharadsiddanagoudar@gmail.com *(Replace with your email if you want to share it)*  
 
 ---
 
-This README now gives a **clear and professional** overview of your work, making it easy for visitors to understand your skills and projects. Let me know if you want any modifications! 🚀🔥
 <!---
 Sharad2005/Sharad2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
