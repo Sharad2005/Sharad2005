@@ -27,8 +27,7 @@
 ## 📫 Contact  
 - 💻 [GitHub](https://github.com/Sharad2005)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharad-siddanagoudar-9a6185283/) 
-- 📧 sharadsiddanagoudar@gmail.com *(Replace with your email if you want to share it)*  
-
+- 📧 sharadsiddanagoudar@gmail.com
 ---
 
 <!---
