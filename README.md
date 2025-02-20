@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack & Skills  
 - **Programming:** C, C++, Python.
-- **Embedded Systems:** ESP32, Arduino, Raspberry Pi  
+- **Embedded Systems:** CH32(Risc-V), GD32(ARM), ESP32, Arduino, Raspberry Pi
 - **PCB Design & Hardware:** KiCad, Altium, Fusion360
 - **IoT & Cloud:** Blynk, MQTT, Firebase  
 - **Web Development:** React, GitHub Pages  
